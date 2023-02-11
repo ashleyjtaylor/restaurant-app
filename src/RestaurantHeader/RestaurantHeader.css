@@ -1,0 +1,11 @@
+.Restaurant-header {
+  display: flex;
+  justify-content: center;
+  background-color: white;
+}
+
+.Restaurant-header img {
+  max-width: 100%;
+  width: 7rem;
+  margin: .5rem auto;
+}
